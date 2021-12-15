@@ -5,6 +5,6 @@ Starting from 2021.
 
 | Year | Notebook |
 | ---- | -------- |
-| 2021 | [Advent of Code 2021](../notebooks/aoc_2021.ipynb) |
+| 2021 | [Advent of Code 2021](https://github.com/CKannas/aoc/blob/master/notebooks/aoc_2021.ipynb) |
 
 [MIT License](LICENSE)
